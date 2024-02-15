@@ -1,2 +1,2 @@
 # SIS213Par2
-Ejemplo Git Ingenieria De Software
+Ejemplo Ingenieria De Software
